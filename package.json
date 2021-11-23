@@ -1,0 +1,26 @@
+{
+  "name": "react-consistently-video",
+  "version": "1.0.0",
+  "description": "React hook that allows you to work consistently with HTML5 video, such as using stable asynchronous functions with additional execution checking, convenience states and accurate data",
+  "main": "useConsistentlyVideo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gh0st-work/react-consistently-video.git"
+  },
+  "keywords": [
+    "react",
+    "js",
+    "html5-video",
+    "video",
+    "async"
+  ],
+  "author": "gh0st-work",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gh0st-work/react-consistently-video/issues"
+  },
+  "homepage": "https://github.com/gh0st-work/react-consistently-video#readme"
+}
