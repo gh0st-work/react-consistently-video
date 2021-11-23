@@ -29,11 +29,11 @@ const video = useConsistentlyVideo({
   timeouts: 10, // checking timeouts
 })
 
-// video.renderVideo - to render video component in your code
+// video.renderVideo() - to render video component in your code
 // await video.load(axiosInstance) - to load video fully using blob
 // await video.play() - play video
 // await video.pause() - pause video
-// await video.seek() - go to second
+// await video.seek(2.57) - go to second 2.57
 // video.videoRef - video ref
 // video.mounted - bool (mounted or not)
 // video.waitingEvent - if some event is in progress
